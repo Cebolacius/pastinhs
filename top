@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolha Muito Difícil</title>
+</head>
+<body>
+    <main>
+        <div class="passo ativo" id="passo-0">
+            <p>Você é um menino jogador de futebol, um dia, surge a oportunidade de jogar no Flamengo ou no Palmeiras, mas você terá que ir para suas respectivas capitais, faça a escolha</p>
+            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+            <button class="btn-proximo" data-proximo="2">São Paulo</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Você começa sua jornada no Rio de Janeiro, e pouco tempo depois você recebe um convite para uma festa, onde há muita probabilidade de se dar mal e ficar em má forma</p>
+            <button class="btn-proximo" data-proximo="3">Não aceitar e continuar treinando</button>
+            <button class="btn-proximo" data-proximo="4">Ah, que se dane! Vou me divertir</button>
+        </div>
+        </main>
+        
+        
+        
+        
+</body>
+</html>
