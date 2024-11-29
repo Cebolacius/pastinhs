@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em busca da cidade perdida</title>
+</head>
+<body>
+    <main>
+        <div class="passo ativo" id="passo-0">
+            <p>Um dia desses, me deu uma vontade estranha de viajar para algum lugar do mundo, e eu tive 2 opções</p>
+            <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
+            <button class="btn-proximo" data-proximo="2">Iraque</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Decido viajar para Israel, e descubro que haverá um evento em poucos dias no litoral da cidade que estou, o que fazer?</p>
+            <button class="btn-proximo" data-proximo="3">Ir para a festa e morrer em um ataque terrorista>
+            <button class="btn-proximo" data-proximo="4">Ficar em casa e acompanhar as noticias</button>
+        </div>
+        </main>
+        
+        
+        
+        
+</body>
+</html>
